@@ -1,0 +1,2 @@
+# Primary_school_Map
+全国の小学校の半径〇〇mを可視化したもの
